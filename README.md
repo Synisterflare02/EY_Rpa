@@ -1,2 +1,2 @@
 # EY_Rpa
-Analyses a transcript and geenrated a CSV file
+Analyses a transcript and generates a CSV file
